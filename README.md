@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hscho-15
 - 👀 I’m interested in Computer Science and Organic Chemistry.
-- 🌱 I’m currently learning Data Structure and Algorithms
+- 🌱 I’m currently learning Object-Oriented Programming
 - 💞️ I’m looking to collaborate on DSHS R&E Project
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
